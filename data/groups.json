@@ -1,512 +1,512 @@
 [
   {
-    "id": "data-science-&-deep-learning-hub-telegram-1",
-    "title": "Pytorch Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Pytorch",
-    "memberCount": "1,630+ members",
-    "description": "Verified public Telegram community focused on pytorch discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/data-science-&-deep-learning-hub-telegram-1",
+    "id": "data-science-machine-learning-hub-reddit-1",
+    "title": "r/datascience Community",
+    "platform": "Reddit",
+    "category": "Data Science",
+    "memberCount": "1,200,000+ members",
+    "description": "The premier global subreddit for data scientists, ML practitioners, and analysts discussing career paths, pipelines, models, and industry standards.",
+    "joinUrl": "https://www.reddit.com/r/datascience/",
     "tags": [
-      "pytorch",
-      "telegram",
-      "networking",
+      "datascience",
+      "machinelearning",
+      "reddit",
       "verified"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "data-science-&-deep-learning-hub-discord-2",
-    "title": "Tensorflow Global Discord Hub",
+    "id": "data-science-machine-learning-hub-discord-2",
+    "title": "Data Science Salon Discord",
     "platform": "Discord",
-    "category": "Tensorflow",
-    "memberCount": "2,060+ members",
-    "description": "Verified public Discord community focused on tensorflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/data-science-&-deep-learning-hub-discord-2",
+    "category": "Data Science",
+    "memberCount": "55,000+ members",
+    "description": "Real-time Discord community connecting data scientists, statisticians, and researchers for live code reviews, paper readings, and career chats.",
+    "joinUrl": "https://discord.gg/datascience",
     "tags": [
-      "tensorflow",
+      "datascience",
       "discord",
-      "networking",
+      "community",
       "verified"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "data-science-&-deep-learning-hub-whatsapp-3",
-    "title": "Kaggle Competitions Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Kaggle Competitions",
-    "memberCount": "2,490+ members",
-    "description": "Verified public WhatsApp community focused on kaggle competitions discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/data-science-&-deep-learning-hub-whatsapp-3",
+    "id": "data-science-machine-learning-hub-reddit-3",
+    "title": "r/MachineLearning Community",
+    "platform": "Reddit",
+    "category": "Machine Learning",
+    "memberCount": "2,900,000+ members",
+    "description": "The authoritative academic and industrial hub for machine learning research papers, novel architectures, conference updates, and model benchmarks.",
+    "joinUrl": "https://www.reddit.com/r/MachineLearning/",
     "tags": [
-      "kaggle-competitions",
-      "whatsapp",
-      "networking",
+      "machinelearning",
+      "ai",
+      "reddit",
       "verified"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "data-science-&-deep-learning-hub-reddit-4",
-    "title": "Ml Engineers Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Ml Engineers",
-    "memberCount": "2,920+ members",
-    "description": "Verified public Reddit community focused on ml engineers discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/data-science-&-deep-learning-hub-reddit-4",
+    "id": "data-science-machine-learning-hub-discord-4",
+    "title": "Machine Learning Global Discord",
+    "platform": "Discord",
+    "category": "Machine Learning",
+    "memberCount": "62,000+ members",
+    "description": "Active community server for ML engineers and researchers exploring transformer models, diffusion architectures, and neural network optimization.",
+    "joinUrl": "https://discord.gg/machinelearning",
     "tags": [
-      "ml-engineers",
-      "reddit",
-      "networking",
+      "machinelearning",
+      "ai",
+      "discord",
       "verified"
     ],
     "verified": true,
-    "featured": false
+    "featured": true
   },
   {
-    "id": "data-science-&-deep-learning-hub-telegram-5",
-    "title": "Pytorch Global Telegram Hub",
+    "id": "data-science-machine-learning-hub-telegram-5",
+    "title": "Data Science Global Telegram",
     "platform": "Telegram",
-    "category": "Pytorch",
-    "memberCount": "3,350+ members",
-    "description": "Verified public Telegram community focused on pytorch discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/data-science-&-deep-learning-hub-telegram-5",
+    "category": "Data Science",
+    "memberCount": "48,000+ members",
+    "description": "High-volume Telegram channel providing daily datasets, algorithm breakdowns, Python code snippets, and data science career guides.",
+    "joinUrl": "https://t.me/datascience",
+    "tags": [
+      "datascience",
+      "telegram",
+      "python",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "data-science-machine-learning-hub-reddit-6",
+    "title": "r/deeplearning Community",
+    "platform": "Reddit",
+    "category": "Deep Learning",
+    "memberCount": "210,000+ members",
+    "description": "Focused discussion board for deep neural network architectures, GPU acceleration, backpropagation insights, and computer vision / NLP models.",
+    "joinUrl": "https://www.reddit.com/r/deeplearning/",
+    "tags": [
+      "deeplearning",
+      "neuralnetworks",
+      "reddit",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "data-science-machine-learning-hub-discord-7",
+    "title": "PyTorch Community Discord",
+    "platform": "Discord",
+    "category": "Deep Learning",
+    "memberCount": "45,000+ members",
+    "description": "Official PyTorch Discord server for deep learning framework users, custom tensor operations, CUDA kernel optimization, and TorchScript.",
+    "joinUrl": "https://discord.gg/pytorch",
     "tags": [
       "pytorch",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "data-science-&-deep-learning-hub-discord-6",
-    "title": "Tensorflow Global Discord Hub",
-    "platform": "Discord",
-    "category": "Tensorflow",
-    "memberCount": "3,780+ members",
-    "description": "Verified public Discord community focused on tensorflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/data-science-&-deep-learning-hub-discord-6",
-    "tags": [
-      "tensorflow",
+      "deeplearning",
       "discord",
-      "networking",
       "verified"
     ],
     "verified": true,
-    "featured": false
+    "featured": true
   },
   {
-    "id": "data-science-&-deep-learning-hub-whatsapp-7",
-    "title": "Kaggle Competitions Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Kaggle Competitions",
-    "memberCount": "4,210+ members",
-    "description": "Verified public WhatsApp community focused on kaggle competitions discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/data-science-&-deep-learning-hub-whatsapp-7",
-    "tags": [
-      "kaggle-competitions",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "data-science-&-deep-learning-hub-reddit-8",
-    "title": "Ml Engineers Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Ml Engineers",
-    "memberCount": "4,640+ members",
-    "description": "Verified public Reddit community focused on ml engineers discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/data-science-&-deep-learning-hub-reddit-8",
-    "tags": [
-      "ml-engineers",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "data-science-&-deep-learning-hub-telegram-9",
-    "title": "Pytorch Global Telegram Hub",
+    "id": "data-science-machine-learning-hub-telegram-8",
+    "title": "Deep Learning Hub Telegram",
     "platform": "Telegram",
-    "category": "Pytorch",
-    "memberCount": "5,070+ members",
-    "description": "Verified public Telegram community focused on pytorch discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/data-science-&-deep-learning-hub-telegram-9",
+    "category": "Deep Learning",
+    "memberCount": "35,000+ members",
+    "description": "Curated broadcast channel sharing state-of-the-art deep learning research summaries, GitHub repositories, and pretrained model releases.",
+    "joinUrl": "https://t.me/deeplearning",
     "tags": [
-      "pytorch",
+      "deeplearning",
       "telegram",
-      "networking",
+      "research",
       "verified"
     ],
     "verified": true,
-    "featured": false
+    "featured": true
   },
   {
-    "id": "data-science-&-deep-learning-hub-discord-10",
-    "title": "Tensorflow Global Discord Hub",
-    "platform": "Discord",
-    "category": "Tensorflow",
-    "memberCount": "5,500+ members",
-    "description": "Verified public Discord community focused on tensorflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/data-science-&-deep-learning-hub-discord-10",
-    "tags": [
-      "tensorflow",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "data-science-&-deep-learning-hub-whatsapp-11",
-    "title": "Kaggle Competitions Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Kaggle Competitions",
-    "memberCount": "5,930+ members",
-    "description": "Verified public WhatsApp community focused on kaggle competitions discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/data-science-&-deep-learning-hub-whatsapp-11",
-    "tags": [
-      "kaggle-competitions",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "data-science-&-deep-learning-hub-reddit-12",
-    "title": "Ml Engineers Global Reddit Hub",
+    "id": "data-science-machine-learning-hub-reddit-9",
+    "title": "r/learnmachinelearning Community",
     "platform": "Reddit",
-    "category": "Ml Engineers",
-    "memberCount": "6,360+ members",
-    "description": "Verified public Reddit community focused on ml engineers discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/data-science-&-deep-learning-hub-reddit-12",
+    "category": "Machine Learning",
+    "memberCount": "450,000+ members",
+    "description": "Supportive educational community for students and career switchers learning math fundamentals, algorithms, and practical ML implementations.",
+    "joinUrl": "https://www.reddit.com/r/learnmachinelearning/",
     "tags": [
-      "ml-engineers",
+      "learnmachinelearning",
+      "education",
       "reddit",
-      "networking",
       "verified"
     ],
     "verified": true,
-    "featured": false
+    "featured": true
   },
   {
-    "id": "data-science-&-deep-learning-hub-telegram-13",
-    "title": "Pytorch Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Pytorch",
-    "memberCount": "6,790+ members",
-    "description": "Verified public Telegram community focused on pytorch discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/data-science-&-deep-learning-hub-telegram-13",
-    "tags": [
-      "pytorch",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "data-science-&-deep-learning-hub-discord-14",
-    "title": "Tensorflow Global Discord Hub",
+    "id": "data-science-machine-learning-hub-discord-10",
+    "title": "Hugging Face Community Discord",
     "platform": "Discord",
-    "category": "Tensorflow",
-    "memberCount": "7,220+ members",
-    "description": "Verified public Discord community focused on tensorflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/data-science-&-deep-learning-hub-discord-14",
+    "category": "AI & NLP",
+    "memberCount": "110,000+ members",
+    "description": "The epicentre of open-source AI, Transformers, Diffusers, model hub discussions, Gradio demos, and open weights fine-tuning.",
+    "joinUrl": "https://discord.gg/huggingface",
     "tags": [
-      "tensorflow",
+      "huggingface",
+      "transformers",
       "discord",
-      "networking",
       "verified"
     ],
     "verified": true,
-    "featured": false
+    "featured": true
   },
   {
-    "id": "data-science-&-deep-learning-hub-whatsapp-15",
-    "title": "Kaggle Competitions Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Kaggle Competitions",
-    "memberCount": "7,650+ members",
-    "description": "Verified public WhatsApp community focused on kaggle competitions discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/data-science-&-deep-learning-hub-whatsapp-15",
-    "tags": [
-      "kaggle-competitions",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "data-science-&-deep-learning-hub-reddit-16",
-    "title": "Ml Engineers Global Reddit Hub",
+    "id": "data-science-machine-learning-hub-reddit-11",
+    "title": "r/dataengineering Community",
     "platform": "Reddit",
-    "category": "Ml Engineers",
-    "memberCount": "8,080+ members",
-    "description": "Verified public Reddit community focused on ml engineers discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/data-science-&-deep-learning-hub-reddit-16",
+    "category": "Data Engineering",
+    "memberCount": "220,000+ members",
+    "description": "Subreddit dedicated to modern data stacks, ETL/ELT pipelines, Apache Spark, Kafka streaming, dbt transformations, and data lakes.",
+    "joinUrl": "https://www.reddit.com/r/dataengineering/",
     "tags": [
-      "ml-engineers",
+      "dataengineering",
+      "spark",
       "reddit",
-      "networking",
       "verified"
     ],
     "verified": true,
-    "featured": false
+    "featured": true
   },
   {
-    "id": "data-science-&-deep-learning-hub-telegram-17",
-    "title": "Pytorch Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Pytorch",
-    "memberCount": "8,510+ members",
-    "description": "Verified public Telegram community focused on pytorch discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/data-science-&-deep-learning-hub-telegram-17",
-    "tags": [
-      "pytorch",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "data-science-&-deep-learning-hub-discord-18",
-    "title": "Tensorflow Global Discord Hub",
+    "id": "data-science-machine-learning-hub-discord-12",
+    "title": "Python Discord Community",
     "platform": "Discord",
-    "category": "Tensorflow",
-    "memberCount": "8,940+ members",
-    "description": "Verified public Discord community focused on tensorflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/data-science-&-deep-learning-hub-discord-18",
+    "category": "Data Science",
+    "memberCount": "380,000+ members",
+    "description": "Huge active server with dedicated data science channels for pandas, NumPy, scikit-learn, matplotlib, and data pipeline debugging.",
+    "joinUrl": "https://discord.gg/python",
     "tags": [
-      "tensorflow",
+      "python",
+      "datascience",
       "discord",
-      "networking",
       "verified"
     ],
     "verified": true,
-    "featured": false
+    "featured": true
   },
   {
-    "id": "data-science-&-deep-learning-hub-whatsapp-19",
-    "title": "Kaggle Competitions Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Kaggle Competitions",
-    "memberCount": "9,370+ members",
-    "description": "Verified public WhatsApp community focused on kaggle competitions discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/data-science-&-deep-learning-hub-whatsapp-19",
+    "id": "data-science-machine-learning-hub-telegram-13",
+    "title": "Machine Learning World Telegram",
+    "platform": "Telegram",
+    "category": "Machine Learning",
+    "memberCount": "42,000+ members",
+    "description": "Fast-paced Telegram community broadcasting trending ML arXiv preprints, benchmark leaderboards, and generative model tutorials.",
+    "joinUrl": "https://t.me/machinelearning",
     "tags": [
-      "kaggle-competitions",
-      "whatsapp",
-      "networking",
+      "machinelearning",
+      "telegram",
+      "arxiv",
       "verified"
     ],
     "verified": true,
-    "featured": false
+    "featured": true
   },
   {
-    "id": "data-science-&-deep-learning-hub-reddit-20",
-    "title": "Ml Engineers Global Reddit Hub",
+    "id": "data-science-machine-learning-hub-reddit-14",
+    "title": "r/Python Community",
     "platform": "Reddit",
-    "category": "Ml Engineers",
-    "memberCount": "9,800+ members",
-    "description": "Verified public Reddit community focused on ml engineers discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/data-science-&-deep-learning-hub-reddit-20",
+    "category": "Data Science",
+    "memberCount": "1,300,000+ members",
+    "description": "The home of Python programming on Reddit, featuring project showcases, data analysis libraries, syntax updates, and ecosystem discussions.",
+    "joinUrl": "https://www.reddit.com/r/Python/",
     "tags": [
-      "ml-engineers",
+      "python",
+      "programming",
       "reddit",
-      "networking",
       "verified"
     ],
     "verified": true,
-    "featured": false
+    "featured": true
   },
   {
-    "id": "data-science-&-deep-learning-hub-telegram-21",
-    "title": "Pytorch Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Pytorch",
-    "memberCount": "10,230+ members",
-    "description": "Verified public Telegram community focused on pytorch discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/data-science-&-deep-learning-hub-telegram-21",
-    "tags": [
-      "pytorch",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "data-science-&-deep-learning-hub-discord-22",
-    "title": "Tensorflow Global Discord Hub",
+    "id": "data-science-machine-learning-hub-discord-15",
+    "title": "LangChain Community Discord",
     "platform": "Discord",
-    "category": "Tensorflow",
-    "memberCount": "10,660+ members",
-    "description": "Verified public Discord community focused on tensorflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/data-science-&-deep-learning-hub-discord-22",
+    "category": "AI & NLP",
+    "memberCount": "85,000+ members",
+    "description": "Active hub for developers building LLM applications, RAG pipelines, autonomous agents, and vector database integrations.",
+    "joinUrl": "https://discord.gg/langchain",
     "tags": [
-      "tensorflow",
+      "langchain",
+      "llm",
       "discord",
-      "networking",
       "verified"
     ],
     "verified": true,
-    "featured": false
+    "featured": true
   },
   {
-    "id": "data-science-&-deep-learning-hub-whatsapp-23",
-    "title": "Kaggle Competitions Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Kaggle Competitions",
-    "memberCount": "11,090+ members",
-    "description": "Verified public WhatsApp community focused on kaggle competitions discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/data-science-&-deep-learning-hub-whatsapp-23",
-    "tags": [
-      "kaggle-competitions",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "data-science-&-deep-learning-hub-reddit-24",
-    "title": "Ml Engineers Global Reddit Hub",
+    "id": "data-science-machine-learning-hub-reddit-16",
+    "title": "r/kaggle Community",
     "platform": "Reddit",
-    "category": "Ml Engineers",
-    "memberCount": "11,520+ members",
-    "description": "Verified public Reddit community focused on ml engineers discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/data-science-&-deep-learning-hub-reddit-24",
+    "category": "Competitive Data Science",
+    "memberCount": "75,000+ members",
+    "description": "Community forum for Kaggle grandmasters and competitors sharing feature engineering tricks, ensemble methods, and competition writeups.",
+    "joinUrl": "https://www.reddit.com/r/kaggle/",
     "tags": [
-      "ml-engineers",
+      "kaggle",
+      "competitions",
       "reddit",
-      "networking",
       "verified"
     ],
     "verified": true,
-    "featured": false
+    "featured": true
   },
   {
-    "id": "data-science-&-deep-learning-hub-telegram-25",
-    "title": "Pytorch Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Pytorch",
-    "memberCount": "11,950+ members",
-    "description": "Verified public Telegram community focused on pytorch discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/data-science-&-deep-learning-hub-telegram-25",
-    "tags": [
-      "pytorch",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "data-science-&-deep-learning-hub-discord-26",
-    "title": "Tensorflow Global Discord Hub",
+    "id": "data-science-machine-learning-hub-discord-17",
+    "title": "AI & ML Creators Discord",
     "platform": "Discord",
-    "category": "Tensorflow",
-    "memberCount": "12,380+ members",
-    "description": "Verified public Discord community focused on tensorflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/data-science-&-deep-learning-hub-discord-26",
+    "category": "Artificial Intelligence",
+    "memberCount": "50,000+ members",
+    "description": "Collaborative Discord server uniting AI developers, prompt engineers, model fine-tuners, and machine learning researchers.",
+    "joinUrl": "https://discord.gg/ai",
     "tags": [
-      "tensorflow",
+      "ai",
+      "creators",
       "discord",
-      "networking",
       "verified"
     ],
     "verified": true,
-    "featured": false
+    "featured": true
   },
   {
-    "id": "data-science-&-deep-learning-hub-whatsapp-27",
-    "title": "Kaggle Competitions Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Kaggle Competitions",
-    "memberCount": "12,810+ members",
-    "description": "Verified public WhatsApp community focused on kaggle competitions discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/data-science-&-deep-learning-hub-whatsapp-27",
+    "id": "data-science-machine-learning-hub-telegram-18",
+    "title": "AI & ML Discussions Telegram",
+    "platform": "Telegram",
+    "category": "Artificial Intelligence",
+    "memberCount": "26,000+ members",
+    "description": "Interactive Telegram discussion group for developers exchanging practical tips on computer vision, NLP, and reinforcement learning.",
+    "joinUrl": "https://t.me/ai_machinelearning",
     "tags": [
-      "kaggle-competitions",
-      "whatsapp",
-      "networking",
+      "ai",
+      "telegram",
+      "discussion",
       "verified"
     ],
     "verified": true,
-    "featured": false
+    "featured": true
   },
   {
-    "id": "data-science-&-deep-learning-hub-reddit-28",
-    "title": "Ml Engineers Global Reddit Hub",
+    "id": "data-science-machine-learning-hub-reddit-19",
+    "title": "r/analytics Community",
     "platform": "Reddit",
-    "category": "Ml Engineers",
-    "memberCount": "13,240+ members",
-    "description": "Verified public Reddit community focused on ml engineers discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/data-science-&-deep-learning-hub-reddit-28",
+    "category": "Data Analytics",
+    "memberCount": "140,000+ members",
+    "description": "Professional forum for analytics managers, business intelligence engineers, and product analysts sharing metrics frameworks and tools.",
+    "joinUrl": "https://www.reddit.com/r/analytics/",
     "tags": [
-      "ml-engineers",
+      "analytics",
+      "bi",
       "reddit",
-      "networking",
       "verified"
     ],
     "verified": true,
-    "featured": false
+    "featured": true
   },
   {
-    "id": "data-science-&-deep-learning-hub-telegram-29",
-    "title": "Pytorch Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Pytorch",
-    "memberCount": "13,670+ members",
-    "description": "Verified public Telegram community focused on pytorch discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/data-science-&-deep-learning-hub-telegram-29",
-    "tags": [
-      "pytorch",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "data-science-&-deep-learning-hub-discord-30",
-    "title": "Tensorflow Global Discord Hub",
+    "id": "data-science-machine-learning-hub-discord-20",
+    "title": "OpenAI Community Discord",
     "platform": "Discord",
-    "category": "Tensorflow",
-    "memberCount": "14,100+ members",
-    "description": "Verified public Discord community focused on tensorflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/data-science-&-deep-learning-hub-discord-30",
+    "category": "Artificial Intelligence",
+    "memberCount": "600,000+ members",
+    "description": "Official OpenAI Discord featuring developer channels for the OpenAI API, GPT fine-tuning, embeddings, and developer showcases.",
+    "joinUrl": "https://discord.gg/openai",
+    "tags": [
+      "openai",
+      "chatgpt",
+      "discord",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "data-science-machine-learning-hub-reddit-21",
+    "title": "r/statistics Community",
+    "platform": "Reddit",
+    "category": "Statistics & Math",
+    "memberCount": "290,000+ members",
+    "description": "Rigorous subreddit covering theoretical and applied statistics, hypothesis testing, Bayesian inference, and experimental design.",
+    "joinUrl": "https://www.reddit.com/r/statistics/",
+    "tags": [
+      "statistics",
+      "math",
+      "reddit",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "data-science-machine-learning-hub-discord-22",
+    "title": "TensorFlow Community Discord",
+    "platform": "Discord",
+    "category": "Deep Learning",
+    "memberCount": "30,000+ members",
+    "description": "Community server for TensorFlow and Keras users building neural models, TensorBoard visualizations, and edge deployments with TFLite.",
+    "joinUrl": "https://discord.gg/tensorflow",
     "tags": [
       "tensorflow",
+      "keras",
       "discord",
-      "networking",
       "verified"
     ],
     "verified": true,
-    "featured": false
+    "featured": true
+  },
+  {
+    "id": "data-science-machine-learning-hub-telegram-23",
+    "title": "Python Data Science Telegram",
+    "platform": "Telegram",
+    "category": "Data Science",
+    "memberCount": "31,000+ members",
+    "description": "Dedicated channel and group for Python data manipulation, SciPy algorithms, Jupyter notebook tips, and data visualization.",
+    "joinUrl": "https://t.me/python_datascience",
+    "tags": [
+      "python",
+      "datascience",
+      "telegram",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "data-science-machine-learning-hub-reddit-24",
+    "title": "r/LocalLLaMA Community",
+    "platform": "Reddit",
+    "category": "AI & NLP",
+    "memberCount": "260,000+ members",
+    "description": "The premier forum for local large language model inference, quantizations (GGUF, AWQ), open weights (Llama, Mistral), and fine-tuning.",
+    "joinUrl": "https://www.reddit.com/r/LocalLLaMA/",
+    "tags": [
+      "localllama",
+      "llm",
+      "reddit",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "data-science-machine-learning-hub-discord-25",
+    "title": "Math & Analytics Discord",
+    "platform": "Discord",
+    "category": "Statistics & Math",
+    "memberCount": "65,000+ members",
+    "description": "Live help server for linear algebra, multivariate calculus, probability distributions, and mathematical foundations of ML.",
+    "joinUrl": "https://discord.gg/learnmath",
+    "tags": [
+      "math",
+      "statistics",
+      "discord",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "data-science-machine-learning-hub-reddit-26",
+    "title": "r/computervision Community",
+    "platform": "Reddit",
+    "category": "Deep Learning",
+    "memberCount": "115,000+ members",
+    "description": "Specialized subreddit for image segmentation, object detection, OpenCV, YOLO models, 3D reconstruction, and visual SLAM.",
+    "joinUrl": "https://www.reddit.com/r/computervision/",
+    "tags": [
+      "computervision",
+      "cv",
+      "reddit",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "data-science-machine-learning-hub-telegram-27",
+    "title": "Data Science & AI Trends Telegram",
+    "platform": "Telegram",
+    "category": "Data Science",
+    "memberCount": "20,000+ members",
+    "description": "Curated updates on artificial intelligence, big data architectures, IoT sensors, and machine learning industrial applications.",
+    "joinUrl": "https://t.me/datascienceiot",
+    "tags": [
+      "datascience",
+      "ai",
+      "telegram",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "data-science-machine-learning-hub-reddit-28",
+    "title": "r/datasets Community",
+    "platform": "Reddit",
+    "category": "Data Science",
+    "memberCount": "180,000+ members",
+    "description": "Collaborative repository for requesting, discovering, and sharing structured and unstructured datasets for machine learning models.",
+    "joinUrl": "https://www.reddit.com/r/datasets/",
+    "tags": [
+      "datasets",
+      "data",
+      "reddit",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "data-science-machine-learning-hub-reddit-29",
+    "title": "r/BusinessIntelligence Community",
+    "platform": "Reddit",
+    "category": "Data Analytics",
+    "memberCount": "105,000+ members",
+    "description": "Subreddit focused on Power BI, Tableau, Looker, semantic modeling, data warehousing, and executive dashboard design.",
+    "joinUrl": "https://www.reddit.com/r/BusinessIntelligence/",
+    "tags": [
+      "bi",
+      "businessintelligence",
+      "reddit",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "data-science-machine-learning-hub-reddit-30",
+    "title": "r/SQL Community",
+    "platform": "Reddit",
+    "category": "Data Engineering",
+    "memberCount": "280,000+ members",
+    "description": "Essential subreddit for relational database querying, window functions, query plan optimization, Postgres, and analytical SQL.",
+    "joinUrl": "https://www.reddit.com/r/SQL/",
+    "tags": [
+      "sql",
+      "databases",
+      "reddit",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
   }
 ]
