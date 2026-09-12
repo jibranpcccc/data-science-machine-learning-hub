@@ -159,7 +159,7 @@
     "category": "AI & NLP",
     "memberCount": "110,000+ members",
     "description": "The epicentre of open-source AI, Transformers, Diffusers, model hub discussions, Gradio demos, and open weights fine-tuning.",
-    "joinUrl": "https://discord.gg/huggingface",
+    "joinUrl": "https://discuss.huggingface.co",
     "tags": [
       "huggingface",
       "transformers",
@@ -244,7 +244,7 @@
     "category": "AI & NLP",
     "memberCount": "85,000+ members",
     "description": "Active hub for developers building LLM applications, RAG pipelines, autonomous agents, and vector database integrations.",
-    "joinUrl": "https://discord.gg/langchain",
+    "joinUrl": "https://github.com/langchain-ai/langchain/discussions",
     "tags": [
       "langchain",
       "llm",
