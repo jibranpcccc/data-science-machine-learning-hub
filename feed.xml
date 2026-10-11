@@ -4,10 +4,17 @@
     <title>Data Science &amp; Deep Learning Hub</title>
     <link>https://jibranpcccc.github.io/data-science-machine-learning-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 10 Oct 2026 06:00:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:00:21 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/data-science-machine-learning-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: TypeScript Community Discord (Discord)</title>
+      <link>https://discord.gg/typescript</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-discord-20261011-1-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 06:00:21 GMT</pubDate>
+      <description>Newly verified community added to Data Science &amp; Deep Learning Hub: Active community for advanced TypeScript types, generics, compiler plugins, and framework integrations.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/typescript Architecture (Reddit)</title>
       <link>https://www.reddit.com/r/typescript/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-reddit-20261010-1-2026-10-10</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-reddit-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 08:29:51 GMT</pubDate>
       <description>Newly verified community added to Data Science &amp; Deep Learning Hub: Vibrant discussion forum on OpenAI ChatGPT updates, prompt engineering strategies, custom GPTs, and creative workflows.</description>
-    </item>
-<item>
-      <title>Data Science &amp; Deep Learning Hub Initial Release</title>
-      <link>https://jibranpcccc.github.io/data-science-machine-learning-hub/</link>
-      <pubDate>Fri, 04 Sep 2026 11:01:31 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
