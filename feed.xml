@@ -4,10 +4,17 @@
     <title>Data Science &amp; Deep Learning Hub</title>
     <link>https://jibranpcccc.github.io/data-science-machine-learning-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 06:00:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:00:23 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/data-science-machine-learning-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                    <item>
+                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Next.js Developers Discord (Discord)</title>
+      <link>https://discord.gg/nextjs</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-discord-20261017-1-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:23 GMT</pubDate>
+      <description>Newly verified community added to Data Science &amp; Deep Learning Hub: Official community Discord for Vercel Next.js developers, Server Components, and App Router architectures.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Devcord Web Developers (Discord)</title>
       <link>https://discord.gg/devcord</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-discord-20261016-1-2026-10-16</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-telegram-20260915-1-2026-09-15</guid>
       <pubDate>Tue, 15 Sep 2026 06:00:17 GMT</pubDate>
       <description>Newly verified community added to Data Science &amp; Deep Learning Hub: Fast-paced updates on frontier AI model releases, arXiv research papers, multimodal benchmarks, and open weights.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/StableDiffusion Local Art (Reddit)</title>
-      <link>https://www.reddit.com/r/StableDiffusion/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-reddit-20260914-1-2026-09-14</guid>
-      <pubDate>Mon, 14 Sep 2026 10:44:23 GMT</pubDate>
-      <description>Newly verified community added to Data Science &amp; Deep Learning Hub: Community dedicated to Stable Diffusion checkpoints, LoRAs, ComfyUI workflows, ControlNet, and SDXL rendering.</description>
     </item>
   </channel>
 </rss>
