@@ -4,10 +4,17 @@
     <title>Data Science &amp; Deep Learning Hub</title>
     <link>https://jibranpcccc.github.io/data-science-machine-learning-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 20 Oct 2026 06:00:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:00:24 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/data-science-machine-learning-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                    <item>
+                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Next.js GitHub Discussions (GitHub)</title>
+      <link>https://github.com/vercel/next.js/discussions</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-github-20261021-1-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 06:00:24 GMT</pubDate>
+      <description>Newly verified community added to Data Science &amp; Deep Learning Hub: Active community discussions and RFCs on Next.js architectures, streaming SSR, and edge rendering.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Rust Language GitHub Discussions (GitHub)</title>
       <link>https://users.rust-lang.org</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-github-20261020-1-2026-10-20</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-discord-20260921-1-2026-09-21</guid>
       <pubDate>Mon, 21 Sep 2026 06:00:19 GMT</pubDate>
       <description>Newly verified community added to Data Science &amp; Deep Learning Hub: Community server discussing Claude API integrations, prompt techniques, and AI safety evaluations.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/ClaudeAI Anthropic Community (Reddit)</title>
-      <link>https://www.reddit.com/r/ClaudeAI/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-reddit-20260920-1-2026-09-20</guid>
-      <pubDate>Sun, 20 Sep 2026 06:00:19 GMT</pubDate>
-      <description>Newly verified community added to Data Science &amp; Deep Learning Hub: Community focused on Anthropic's Claude models, Sonnet coding workflows, artifacts, and long-context capabilities.</description>
     </item>
   </channel>
 </rss>
