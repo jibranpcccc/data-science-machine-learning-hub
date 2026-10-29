@@ -4,10 +4,17 @@
     <title>Data Science &amp; Deep Learning Hub</title>
     <link>https://jibranpcccc.github.io/data-science-machine-learning-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 27 Oct 2026 06:00:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 06:00:24 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/data-science-machine-learning-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                <item>
+                                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: Kubernetes Community Discord (Discord)</title>
+      <link>https://discuss.kubernetes.io</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-discord-20261029-1-2026-10-29</guid>
+      <pubDate>Thu, 29 Oct 2026 06:00:24 GMT</pubDate>
+      <description>Newly verified community added to Data Science &amp; Deep Learning Hub: Dedicated server for cloud-native infrastructure engineers building, deploying, and scaling on Kubernetes.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/aws Cloud Architects (Reddit)</title>
       <link>https://www.reddit.com/r/aws/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-reddit-20261027-1-2026-10-27</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-reddit-20260930-1-2026-09-30</guid>
       <pubDate>Wed, 30 Sep 2026 06:13:36 GMT</pubDate>
       <description>Newly verified community added to Data Science &amp; Deep Learning Hub: Dedicated community for the Rust programming language focusing on memory safety, concurrency, and high-performance systems.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: The Programmer's Hangout (Discord)</title>
-      <link>https://discord.gg/programming</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-discord-20260929-1-2026-09-29</guid>
-      <pubDate>Tue, 29 Sep 2026 06:00:23 GMT</pubDate>
-      <description>Newly verified community added to Data Science &amp; Deep Learning Hub: A collaborative multi-language developer Discord covering architecture, algorithms, career advice, and live coding.</description>
     </item>
   </channel>
 </rss>
