@@ -4,10 +4,17 @@
     <title>Data Science &amp; Deep Learning Hub</title>
     <link>https://jibranpcccc.github.io/data-science-machine-learning-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 10 Nov 2026 06:00:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:00:23 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/data-science-machine-learning-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-forum-20261109-1-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 06:00:23 GMT</pubDate>
+      <description>Newly verified community added to Data Science &amp; Deep Learning Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-forum-20261109-1-2026-11-10</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-reddit-20261015-1-2026-10-15</guid>
       <pubDate>Thu, 15 Oct 2026 06:00:23 GMT</pubDate>
       <description>Newly verified community added to Data Science &amp; Deep Learning Hub: A community dedicated to all things web development, client and server-side architectures, and UI/UX design.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/cpp High Performance Systems (Reddit)</title>
-      <link>https://www.reddit.com/r/cpp/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-reddit-20261013-1-2026-10-13</guid>
-      <pubDate>Tue, 13 Oct 2026 06:00:23 GMT</pubDate>
-      <description>Newly verified community added to Data Science &amp; Deep Learning Hub: Discussions on modern C++ (C++17/20/23), memory models, template metaprogramming, and graphics pipelines.</description>
     </item>
   </channel>
 </rss>
