@@ -4,10 +4,17 @@
     <title>Data Science &amp; Deep Learning Hub</title>
     <link>https://jibranpcccc.github.io/data-science-machine-learning-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 17 Nov 2026 06:12:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 06:00:21 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/data-science-machine-learning-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-forum-20261109-1-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 06:00:21 GMT</pubDate>
+      <description>Newly verified community added to Data Science &amp; Deep Learning Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-forum-20261109-1-2026-11-17</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-discord-20261019-1-2026-10-19</guid>
       <pubDate>Mon, 19 Oct 2026 06:00:23 GMT</pubDate>
       <description>Newly verified community added to Data Science &amp; Deep Learning Hub: Official community for Tailwind CSS utility-first design, component architectures, and responsive layout styling.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Vue Land Community Discord (Discord)</title>
-      <link>https://discord.gg/vue</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-discord-20261018-1-2026-10-18</guid>
-      <pubDate>Sun, 18 Oct 2026 06:00:23 GMT</pubDate>
-      <description>Newly verified community added to Data Science &amp; Deep Learning Hub: The official Discord community for Vue.js, Nuxt, Vite, Pinia, and frontend ecosystem tools.</description>
     </item>
   </channel>
 </rss>
