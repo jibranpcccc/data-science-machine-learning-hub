@@ -4,10 +4,17 @@
     <title>Data Science &amp; Deep Learning Hub</title>
     <link>https://jibranpcccc.github.io/data-science-machine-learning-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 08:44:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:42:34 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/data-science-machine-learning-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/deeplearning Community (Reddit)</title>
+      <link>https://www.reddit.com/r/deeplearning/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-reddit-6-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 06:42:34 GMT</pubDate>
+      <description>Newly verified community added to Data Science &amp; Deep Learning Hub: Focused discussion board for deep neural network architectures, GPU acceleration, backpropagation insights, and computer vision / NLP models.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Data Science Global Telegram (Telegram)</title>
       <link>https://t.me/datascience</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-telegram-5-2026-11-22</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-reddit-20261025-1-2026-10-25</guid>
       <pubDate>Sun, 25 Oct 2026 06:00:24 GMT</pubDate>
       <description>Newly verified community added to Data Science &amp; Deep Learning Hub: Discussions on Kubernetes cluster management, Helm charts, ingress controllers, service meshes, and K8s operators.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/devops Practitioners Hub (Reddit)</title>
-      <link>https://www.reddit.com/r/devops/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/data-science-machine-learning-hub/#data-science-machine-learning-hub-reddit-20261024-1-2026-10-24</guid>
-      <pubDate>Sat, 24 Oct 2026 06:00:22 GMT</pubDate>
-      <description>Newly verified community added to Data Science &amp; Deep Learning Hub: The center of DevOps culture, automation tooling, CI/CD pipelines, GitOps workflows, and infrastructure as code.</description>
     </item>
   </channel>
 </rss>

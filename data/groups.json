@@ -1,5 +1,24 @@
 [
   {
+    "id": "data-science-machine-learning-hub-reddit-6",
+    "title": "r/deeplearning Community",
+    "platform": "Reddit",
+    "category": "Deep Learning",
+    "memberCount": "210,000+ members",
+    "description": "Focused discussion board for deep neural network architectures, GPU acceleration, backpropagation insights, and computer vision / NLP models.",
+    "joinUrl": "https://www.reddit.com/r/deeplearning/",
+    "tags": [
+      "deeplearning",
+      "neuralnetworks",
+      "reddit",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-23"
+  },
+  {
     "id": "data-science-machine-learning-hub-telegram-5",
     "title": "Data Science Global Telegram",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-22"
   },
   {
@@ -1024,24 +1043,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "data-science-machine-learning-hub-reddit-6",
-    "title": "r/deeplearning Community",
-    "platform": "Reddit",
-    "category": "Deep Learning",
-    "memberCount": "210,000+ members",
-    "description": "Focused discussion board for deep neural network architectures, GPU acceleration, backpropagation insights, and computer vision / NLP models.",
-    "joinUrl": "https://www.reddit.com/r/deeplearning/",
-    "tags": [
-      "deeplearning",
-      "neuralnetworks",
-      "reddit",
-      "verified"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "data-science-machine-learning-hub-discord-7",
